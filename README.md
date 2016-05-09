@@ -1,5 +1,5 @@
 # blacklight447-s-firefox-privacy-userscript
-Do you ever thought about hardening your firefox browser? 
+Have you ever thought about hardening your Firefox? 
 Did you ever wanted to be able to block the most things adblockers cannot? Well, with this new userscript you can!
 This userscript is made to block broken crypto and makes Firefox spit out less identifible information on the internet.
 
