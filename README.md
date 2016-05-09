@@ -48,5 +48,5 @@ Also some sites may break when you use this script, if you really have to use th
 To B: alter the script in such a way that it works(NOTE: only do this if you know what you are doing).
 Or C: use a diffrent browser to visit the particulair site.
 
-If anyone has tips for me to improve the script, wants to point out something i got wrong or missed, or simply wants to say thanks,
+If anyone has tips for me to improve the script, wants to point out something I got wrong or missed, or simply wants to say thanks,
 you are free to do so in the comments or you can email me at blacklight447@protonmail.com :) 
