@@ -4,7 +4,7 @@ Did you ever wanted to be able to block the most things adblockers cannot? Well,
 This userscript is made to block broken crypto and makes Firefox spit out less identifible information on the internet.
 
 
-First let me explain what a userscript is, and what it does(in the case you don't know it yet).
+First let me explain what a userscript is, and what it does(in case you don't know it yet).
 A userscript in firefox is a way to tell Firefox what kind of settings you prefer, and it is mostly used to change advanced settings in firefox.
 it is a file that the user himself must create, since it is not there by default.
 When Firefox start's, it use's the prefs.js file to read what kind of settings a preferred, 
@@ -17,7 +17,7 @@ Now I will explain how to install this userscript.
 Step 1: First open up a text editor, it doesn't matter which aslong as its a text editor,  
 
 Step 2: Now, copy paste the text from the userscript I made to the text editor. 
-        after that, click on save as, and name the userscript with the name "users.js" (NOTE: without the quotation marks!)
+        after that, click on save as, and name the userscript "users.js" (NOTE: without the quotation marks!)
         and save it to your documents folder.
 
 Step 3: Now we need to locate your Firefox's default profiles folder, this step can differ from os to os. 
@@ -42,8 +42,8 @@ Step 3: Now open up Firefox again, it will now regenerate a new prefs.js with th
 
 Side notes:
 Although this userscript is a good start if you want to make your firefox more secure and more private, it is still lacking.
-It does not provide anonimity, just better privacy and security. I really recommend using it along side with other measures, 
-plugins like noscript and ublock origin for example.
+It does not provide anonimity, just better privacy and security. I really recommend using it along side other measures, 
+plugins like Noscript and Ublock origin for example.
 Also some sites may break when you use this script, if you really have to use that particulair site, you can choose to A: deinstall the script ( as explained above).
 To B: alter the script in such a way that it works(NOTE: only do this if you know what you are doing).
 Or C: use a diffrent browser to visit the particulair site.
