@@ -224,7 +224,7 @@ user_pref("security.OCSP.enabled",                              1);
 user_pref("security.ssl.enable_ocsp_stapling",		        true);
 user_pref("security.OCSP.require",                              true);
 user_pref("security.enable_tls_session_tickets",                false);
-user_pref("security.tls.version.min",		                1);
+user_pref("security.tls.version.min",		                3);
 user_pref("security.tls.version.max",		                3);
 user_pref("security.enable_ssl3",                               false);
 user_pref("security.cert_pinning.enforcement_level",            2);
