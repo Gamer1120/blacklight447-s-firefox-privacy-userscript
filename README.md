@@ -46,7 +46,7 @@ It does not provide anonimity, just better privacy and security. I really recomm
 plugins like Noscript and Ublock origin for example.
 Also some sites may break when you use this script, if you really have to use that particulair site, you can choose to A: deinstall the script ( as explained above).
 To B: alter the script in such a way that it works(NOTE: only do this if you know what you are doing).
-Or C: use a diffrent browser to visit the particulair site.
+Or C: use a different browser to visit the particulair site.
 
 If anyone has tips for me to improve the script, wants to point out something I got wrong or missed, or simply wants to say thanks,
 you are free to do so in the comments or you can email me at blacklight447@protonmail.com :) 
