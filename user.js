@@ -156,7 +156,6 @@ user_pref("social.share.activationPanelEnabled",                false);
 // Preference name                                              Value //
 user_pref("dom.storage.enabled",                                false);
 user_pref("dom.indexedDB.enabled",                              true);
-user_pref("dom.webnotifications.enabled",                       false);
 user_pref("dom.webnotifications.serviceworker.enabled",         false);
 	  user_pref("dom.disable_image_src_set",                true);
 user_pref("dom.battery.enabled",                                false);
