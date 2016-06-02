@@ -379,8 +379,8 @@ user_pref("gfx.direct2d.disabled",                              true);
 
 
 // app switches //
-user_pref("app.update.enabled",                                 false);
-user_pref("app.update.auto",                                    false);
+user_pref("app.update.enabled",                                 true);
+user_pref("app.update.auto",                                    true);
 user_pref("app.update.disable_button.showUpdateHistory",        false);
 user_pref("app.update.service.enabled",                         false);
 user_pref("app.update.showInstalledUI",                         true);
