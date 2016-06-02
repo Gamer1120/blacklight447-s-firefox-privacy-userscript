@@ -1,4 +1,4 @@
-// firefox privacy setup, last time edited: 5 10 2016 //
+// firefox privacy setup, last time edited: 02 06 2016 //
 
 
 // geo switches //
