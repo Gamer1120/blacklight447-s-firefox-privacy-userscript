@@ -17,7 +17,7 @@ Now I will explain how to install this userscript.
 Step 1: First open up a text editor, it doesn't matter which aslong as its a text editor,  
 
 Step 2: Now, copy paste the text from the userscript I made to the text editor. 
-        after that, click on save as, and name the userscript "users.js" (NOTE: without the quotation marks!)
+        after that, click on save as, and name the userscript "user.js" (NOTE: without the quotation marks!)
         and save it to your documents folder.
 
 Step 3: Now we need to locate your Firefox's default profiles folder, this step can differ from os to os. 
