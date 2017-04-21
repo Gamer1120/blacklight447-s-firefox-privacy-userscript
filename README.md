@@ -1,22 +1,22 @@
 # blacklight447-s-firefox-privacy-userscript
 Have you ever thought about hardening your Firefox? 
-Did you ever wanted to be able to block the most things adblockers cannot? Well, with this new userscript you can!
+Did you ever want to be able to block the most things adblockers cannot? Well, with this new userscript you can!
 This userscript is made to block broken crypto and makes Firefox spit out less identifible information on the internet.
 
 
-First let me explain what a userscript is, and what it does(in case you don't know it yet).
+First let me explain what a userscript is, and what it does (in case you don't know it yet).
 A userscript in firefox is a way to tell Firefox what kind of settings you prefer, and it is mostly used to change advanced settings in firefox.
-it is a file that the user himself must create, since it is not there by default.
-When Firefox start's, it use's the prefs.js file to read what kind of settings a preferred, 
-these are normally the standard settings.
+it is a file that the user themselves must create, since it is not there by default.
+When Firefox starts, it uses the prefs.js file to read what kind of settings are preferred. 
+These are normally the standard settings.
 Once the user creates or imports a user.js file, the userscript 
-will override the standard prefs.js file and start up with the preferences stated in the userscript.
+will override the standard prefs.js file and Firefox will start up with the preferences stated in the userscript.
 
 Now I will explain how to install this userscript.
 
-Step 1: First open up a text editor, it doesn't matter which aslong as its a text editor,  
+Step 1: First open up a text editor, it doesn't matter which, as long as it's a text editor,  
 
-Step 2: Now, copy paste the text from the userscript I made to the text editor. 
+Step 2: Now, copy and paste the text from the userscript I made to the text editor. 
         after that, click on save as, and name the userscript "user.js" (NOTE: without the quotation marks!)
         and save it to your documents folder.
 
@@ -43,9 +43,9 @@ Step 3: Now open up Firefox again, it will now regenerate a new prefs.js with th
 Side notes:
 Although this userscript is a good start if you want to make your firefox more secure and more private, it is still lacking.
 It does not provide anonimity, just better privacy and security. I really recommend using it along side other measures, 
-plugins like Noscript and Ublock origin for example.
-Also some sites may break when you use this script, if you really have to use that particulair site, you can choose to A: deinstall the script ( as explained above).
-To B: alter the script in such a way that it works(NOTE: only do this if you know what you are doing).
+plugins like NoScript and uBlock Origin for example.
+Also some sites may break when you use this script, if you really have to use that particulair site, you can choose to A: deinstall the script (as explained above).
+To B: alter the script in such a way that it works (NOTE: only do this if you know what you are doing).
 Or C: use a different browser to visit the particulair site.
 
 If anyone has tips for me to improve the script, wants to point out something I got wrong or missed, or simply wants to say thanks,
